@@ -114,35 +114,28 @@ body {
 
 .masthead {
     padding: 1em 2em;
-    background: #d52e3f;
-    color: white;
+    background: #F44336;
 }
 
 .masthead h1 {
-    font-size: 4rem;
+    font-size: 3rem;
     text-align: center;
-    color: #fcedd8;
+    color: #B71C1C;
     font-family: 'Niconne', cursive;
-    text-shadow: 5px 5px 0px #eb452b, 
-              10px 10px 0px #efa032, 
-              15px 15px 0px #46b59b, 
-              20px 20px 0px #017e7f, 
-              25px 25px 0px #052939, 
-              30px 30px 0px #c11a2b, 
-              35px 35px 0px #c11a2b;
+    
 }
 
 .intro {
-    padding: 2em 2em;
-    color: #fcedd8;
-    background-image: linear-gradient(283deg, rgba(228, 228, 228,0.04) 0%, rgba(228, 228, 228,0.04) 30%,rgba(130, 130, 130,0.04) 30%, rgba(130, 130, 130,0.04) 49%,rgba(31, 31, 31,0.04) 49%, rgba(31, 31, 31,0.04) 100%),linear-gradient(297deg, rgba(228, 228, 228,0.04) 0%, rgba(228, 228, 228,0.04) 20%,rgba(130, 130, 130,0.04) 20%, rgba(130, 130, 130,0.04) 60%,rgba(31, 31, 31,0.04) 60%, rgba(31, 31, 31,0.04) 100%),linear-gradient(242deg, rgba(228, 228, 228,0.04) 0%, rgba(228, 228, 228,0.04) 29%,rgba(130, 130, 130,0.04) 29%, rgba(130, 130, 130,0.04) 48%,rgba(31, 31, 31,0.04) 48%, rgba(31, 31, 31,0.04) 100%),linear-gradient(90deg, rgb(0,0,0),rgb(0,0,0));
+    padding: 1em 1em;
+    color: white;
+    background: #F44336;
 }
 
 
 .intro p,
 .test-area {
     margin: 0 auto;
-    max-width: 550px;
+    max-width: 991px;
 }
 
 .test-area {
@@ -191,12 +184,12 @@ body {
     padding: .5em 1em;
     font-size: 1.2em;
     font-weight: bold;
-    color: #E95D0F;
+    color: #F44336;
     background: white ;
-    border: 10px solid #E95D0F;
+    border: 10px solid #F44336;
 }
 
 #reset:hover {
     color: white;
-    background-color: #E95D0F;
+    background-color: #F44336;
 }

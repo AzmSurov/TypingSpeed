@@ -39,7 +39,7 @@ function spellCheck() {
         if (textEntered == originTextMatch) {
             testWrapper.style.borderColor = "#65CCf3";
         } else {
-            testWrapper.style.borderColor = "#c11a2b";
+            testWrapper.style.borderColor = "#F44336";
         }
     }
 
